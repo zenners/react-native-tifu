@@ -1,14 +1,13 @@
 # react-native-tifu
 TIFU reader for react native
 
-### TIFU reader for react native
-
-clone
+```gitclone
 npm install
 open project folder in xCode
 cmd+r
+```
 
 #Todo
-Add other subreddits
-better post view
-styles
+* Add other subreddits
+* better post view
+* styles
